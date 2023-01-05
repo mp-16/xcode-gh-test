@@ -9,7 +9,7 @@ import Foundation
 
 class DataService {
     static func getQuoteData () ->[Quote] {
-        //find path, get url, make data object, make decoder, decode, set ID, return stuff for the func
+        //find path, get url, make data object, make decoder, decode, set ID, return a class for the func
         let pathString = Bundle.main.path(forResource: "quotes", ofType: "json")
         if let path = pathString {
             let url = URL(fileURLWithPath: path)

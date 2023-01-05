@@ -15,4 +15,6 @@ class Quote: Identifiable, Decodable {
     var author: String
     var short: String
     var longQuote: [String]
+    //this is a change I want to see.
+    
 }
