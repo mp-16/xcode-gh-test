@@ -1,0 +1,37 @@
+[
+	{
+		"name": "About The Journey",
+		"image": "bluesky",
+		"author": "Joseph B. Wirthlin",
+		"short": "We make the journey by taking each day step by step",
+		"longQuote": ["Sometimes we make the process more complicated than we need to. We will never make a journey of a thousand miles by fretting about how long it will take or how hard it will be.", "We make the journey by taking each day step by step and then repeating it again and again until we reach our destination."]
+	},
+	{
+		"name": "About Love",
+		"image": "moon",
+		"author": "Ann Landers",
+		"short": "Love is friendship that has caught fire",
+		"longQuote": ["Love is friendship that has caught fire. It is quiet understanding, mutual confidence, sharing and forgiving.", "It is loyalty through good and bad times.", "It settles for less than perfection and makes allowances for human weaknesses."]
+	},
+	{
+		"name": "About Reality",
+		"image": "leaves",
+		"author": "Paige Bradley",
+		"short": "If we disconnected and severed our attachments, would we shatter our confinements and expand beyond our shell?",
+		"longQuote": ["From the moment we are born, the world tends to have a box already built for us to fit inside. Our umbilical cord never seems to be severed; we only find new needs to fill.", "If we disconnected and severed our attachments, would we shatter our confinements and expand beyond our shell? ", "Would the world look different? Would we recognize ourselves?", "Are we the box that we are inside, and to be authentically 'un-contained' would we still be able to exist?", "This is the irony of containment. As long as we don't push on the walls of our surroundings, we may never know how strong we really are."]
+	},
+	{
+		"name": "About Opportunity",
+		"image": "pinkmountains",
+		"author": "Helen Keller",
+		"short": "When one door of happiness closes, another opens",
+		"longQuote": ["When one door of happiness closes, another opens; but often we look so long in disappointment and bitterness at the closed door that we do not expectantly look for and therefore see with pleasure and gratitude the one which has been opened for us"]
+	},
+	{
+		"name": "About Life",
+		"image": "bluebrick",
+		"author": "William J. Clinton",
+		"short": "It's how you handle adversity, not how it affects you.",
+		"longQuote": ["If you live long enough, you'll make mistakes.", "But if you learn from them, you'll be a better person. It's how you handle adversity, not how it affects you.", "The main thing is never quit, never quit, never quit."]
+	}
+]
